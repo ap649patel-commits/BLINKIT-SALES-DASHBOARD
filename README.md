@@ -209,13 +209,7 @@ You can modify this structure according to the files you actually upload to GitH
 
 ---
 
-## 🖥️ Dashboard Preview
 
-![Blinkit Sales Dashboard](Images/dashboard.png)
-
-> Add a screenshot of your Power BI dashboard inside the `Images` folder and update the filename if required.
-
----
 
 ## 🚀 How to Use This Project
 
